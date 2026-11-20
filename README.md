@@ -36,6 +36,12 @@ I am a results-driven **Senior Engineer & PMP® Certified Technical Leader** wit
 * Built a personal full-stack project using **Cursor (Vibe Coding)**, integrating real-time Weather APIs to provide automated, AI-driven clothing recommendations.
 * *Keywords: Cursor, API Integration, Web Development, Prompt Engineering*
 
+### 🦾 4. Language-Conditioned Grasp Loop
+* Open baseline that turns a pick command into a closed-loop planar grasp: [language-grasp-loop](https://github.com/jackgong666/language-grasp-loop).
+* A 6-feature linear grounder plus one sidestep controller. On 200 held-out episodes it grounds every instruction and completes **97%** of grasps, with the measurement and tests in the repo.
+* CPU only, no camera and no robot. It is the readable loop in front of a production GraspNet stack.
+* *Keywords: Embodied AI, Language Grounding, Manipulation, Closed-Loop Control*
+
 ---
 
 ## 🌱 Currently Diving Deep Into
