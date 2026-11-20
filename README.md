@@ -6,7 +6,7 @@
 ---
 
 ## 👀 About Me
-I am a results-driven **Senior Engineer & PMP® Certified Technical Leader** with 6 years of international experience delivering advanced robotic and AI solutions across EMEA and APAC. I specialize in taking cutting-edge AI research (Computer Vision, Embodied AI, Predictive Analytics) and deploying it into stable, 24/7 industrial environments. 
+I am a results-driven **Senior Engineer & PMP® Certified Technical Leader** with 6 years of international experience delivering advanced robotic and AI solutions. I specialize in taking cutting-edge AI research (Computer Vision, Embodied AI, Predictive Analytics). 
 ---
 
 ## 🛠️ Tech Stack & Core Competencies
